@@ -1,0 +1,20 @@
+title-text: ""
+
+desktop-image: "background.png"
+desktop-image-scale-method: "stretch"
+
++ boot_menu {
+    left = 4%
+    top = 27%
+    width = 42%
+    height = 50%
+
+    item_color = "#D8CDE5"
+    selected_item_color = "#FFFFFF"
+
+    item_height = 48
+    item_padding = 10
+    item_spacing = 6
+
+    selected_item_pixmap_style = "select_*.png"
+}
